@@ -1,10 +1,9 @@
 package com.nhnacademy.store99.coupon.common;
 
+import java.util.Objects;
 import lombok.Builder;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
-
-import java.util.Objects;
 
 @Getter
 public class CommonHeader {
