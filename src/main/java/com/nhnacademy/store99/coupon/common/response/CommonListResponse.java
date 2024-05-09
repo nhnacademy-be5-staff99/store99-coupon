@@ -1,4 +1,4 @@
-package com.nhnacademy.store99.coupon.common;
+package com.nhnacademy.store99.coupon.common.response;
 
 import java.util.List;
 import lombok.Builder;
